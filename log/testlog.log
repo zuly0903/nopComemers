@@ -1,0 +1,92 @@
+2023-05-02 18:14:20,522 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:14:20,545 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:14:21,496 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:14:21,733 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:14:21,893 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:14:23,998 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:14:24,053 - nopComemrse -INFO - **********Click Menu**********
+2023-05-02 18:14:24,134 - nopComemrse -INFO - **********Click Customer Menu**********
+2023-05-02 18:14:25,027 - nopComemrse -INFO - **********Click Add New Button**********
+2023-05-02 18:14:25,769 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:14:25,788 - nopComemrse -INFO - **********Entering Customer Info**********
+2023-05-02 18:14:32,759 - nopComemrse -INFO - **********Click Save Button**********
+2023-05-02 18:14:36,748 - nopComemrse -INFO - **********Veryfing Confirmation Message**********
+2023-05-02 18:14:36,982 - nopComemrse -INFO - **********Closing Browser**********
+2023-05-02 18:14:39,984 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:14:39,988 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:14:41,684 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:14:41,875 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:14:42,035 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:14:43,982 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:14:43,993 - nopComemrse -INFO - **********Click Menu**********
+2023-05-02 18:14:44,087 - nopComemrse -INFO - **********Click Customer Menu**********
+2023-05-02 18:14:46,250 - nopComemrse -INFO - **********Enter Email To Search**********
+2023-05-02 18:14:46,561 - nopComemrse -INFO - **********Click Search Button**********
+2023-05-02 18:14:49,689 - nopComemrse -INFO - **********Veryfing Email Present In The Search Table**********
+2023-05-02 18:14:49,770 - nopComemrse -INFO - **********Closing Browser**********
+2023-05-02 18:14:52,249 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:14:52,250 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:14:53,137 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:14:53,315 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:14:53,465 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:14:55,299 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:14:55,321 - nopComemrse -INFO - **********Click Menu**********
+2023-05-02 18:14:55,397 - nopComemrse -INFO - **********Click Customer Menu**********
+2023-05-02 18:14:56,838 - nopComemrse -INFO - **********Enter Name To Search**********
+2023-05-02 18:14:57,012 - nopComemrse -INFO - **********Enter Name To Search**********
+2023-05-02 18:14:57,123 - nopComemrse -INFO - **********Click Search Button**********
+2023-05-02 18:15:00,204 - nopComemrse -INFO - **********Veryfing Name Present In The Search Table**********
+2023-05-02 18:15:00,278 - nopComemrse -INFO - **********Closing Browser**********
+2023-05-02 18:15:02,078 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:15:02,080 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:15:02,818 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:15:02,940 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:15:03,051 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:15:04,868 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:15:04,879 - nopComemrse -INFO - **********Logout**********
+2023-05-02 18:15:05,864 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:15:05,881 - nopComemrse -INFO - **********Closing Browser**********
+2023-05-02 18:15:08,154 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:15:08,155 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:15:08,957 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:15:09,064 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:15:09,165 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:15:10,886 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:15:10,905 - nopComemrse -INFO - **********Logout**********
+2023-05-02 18:15:11,577 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:15:11,592 - nopComemrse -INFO - **********Closing Browser**********
+2023-05-02 18:15:13,241 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:15:13,243 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:15:13,801 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:15:13,896 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:15:13,971 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:15:15,820 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:15:15,843 - nopComemrse -INFO - **********Logout**********
+2023-05-02 18:15:16,650 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:15:16,662 - nopComemrse -INFO - **********Closing Browser**********
+2023-05-02 18:26:58,408 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:26:58,434 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:26:59,488 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:26:59,608 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:26:59,688 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:27:00,961 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:27:00,971 - nopComemrse -INFO - **********Click Menu**********
+2023-05-02 18:27:01,032 - nopComemrse -INFO - **********Click Customer Menu**********
+2023-05-02 18:27:01,733 - nopComemrse -INFO - **********Enter Name To Search**********
+2023-05-02 18:27:01,962 - nopComemrse -INFO - **********Enter Name To Search**********
+2023-05-02 18:27:02,133 - nopComemrse -INFO - **********Click Search Button**********
+2023-05-02 18:27:05,212 - nopComemrse -INFO - **********Veryfing Name Present In The Search Table**********
+2023-05-02 18:27:05,273 - nopComemrse -INFO - **********Closing Browser**********
+2023-05-02 18:50:38,510 - nopComemrse -INFO - **********Launching Browser**********
+2023-05-02 18:50:38,527 - nopComemrse -INFO - **********Launching URL**********
+2023-05-02 18:50:39,082 - nopComemrse -INFO - **********Entering Email**********
+2023-05-02 18:50:39,205 - nopComemrse -INFO - **********Entering Password**********
+2023-05-02 18:50:39,282 - nopComemrse -INFO - **********Login**********
+2023-05-02 18:50:41,213 - nopComemrse -INFO - **********Veryfing Title**********
+2023-05-02 18:50:41,225 - nopComemrse -INFO - **********Click Menu**********
+2023-05-02 18:50:41,277 - nopComemrse -INFO - **********Click Customer Menu**********
+2023-05-02 18:50:42,042 - nopComemrse -INFO - **********Enter Name To Search**********
+2023-05-02 18:50:42,175 - nopComemrse -INFO - **********Enter Name To Search**********
+2023-05-02 18:50:42,280 - nopComemrse -INFO - **********Click Search Button**********
+2023-05-02 18:50:45,345 - nopComemrse -INFO - **********Veryfing Name Present In The Search Table**********
+2023-05-02 18:50:45,397 - nopComemrse -INFO - **********Closing Browser**********
